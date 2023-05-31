@@ -1,7 +1,7 @@
 import { prisma } from '@/lib/prisma'
 import { Prisma } from '@prisma/client'
 
-export class PrismaUsersRepository {
+export class InMemoryUsersRepository {
   async create(data: Prisma.UserCreateInput) {
     const user = await prisma.user.create({
       data,
