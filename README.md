@@ -9,7 +9,7 @@ Gympass style app.
 - [ ] Should be able to user get his check-in history.
 - [ ] Should be able to user search for a gym in his location.
 - [ ] Should be able to user search for a gym by name.
-- [ ] Should be able to user makes a check-in.
+- [X] Should be able to user makes a check-in.
 - [ ] Should be able to gym validate a check-in from a user.
 - [ ] Should be able to register a gym.
 
