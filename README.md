@@ -11,12 +11,12 @@ Gympass style app.
 - [ ] Should be able to user search for a gym by name.
 - [X] Should be able to user makes a check-in.
 - [ ] Should be able to gym validate a check-in from a user.
-- [ ] Should be able to register a gym.
+- [X] Should be able to register a gym.
 
 ## BRs (Business rules)
 - [X] User should not be able to register with an already registered email.
 - [X] User should not be able to make 2 check-ins in the same day.
-- [ ] User should not be able to make a check-in if he is not about (100m) from the gym.
+- [X] User should not be able to make a check-in if he is not about (100m) from the gym.
 - [ ] The check-in just can be validate till 20 minutes after the check-in.
 - [ ] The check-in just can be validate by the gym admin.
 - [ ] The gym just can be registered by admins.
