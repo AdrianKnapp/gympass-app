@@ -6,7 +6,7 @@ Gympass style app.
 - [X] Should be able to authenticate.
 - [X] Should be able to get the profile of a logged user.
 - [ ] Should be able to get the quantity of check-ins from the logged user.
-- [ ] Should be able to user get his check-in history.
+- [X] Should be able to user get his check-in history.
 - [ ] Should be able to user search for a gym in his location.
 - [ ] Should be able to user search for a gym by name.
 - [X] Should be able to user makes a check-in.
