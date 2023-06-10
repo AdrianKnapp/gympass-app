@@ -10,7 +10,7 @@ Gympass style app.
 - [X] Should be able to user search for a gym in his location (less than 10km).
 - [X] Should be able to user search for a gym by name.
 - [X] Should be able to user makes a check-in.
-- [ ] Should be able to gym validate a check-in from a user.
+- [X] Should be able to gym validate a check-in from a user.
 - [X] Should be able to register a gym.
 
 ## BRs (Business rules)
