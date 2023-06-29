@@ -25,7 +25,6 @@ describe('Create Gym (e2e)', () => {
         latitude: -32.0666453,
         longitude: -52.1722704,
       })
-    console.log('🚀 ~ file: create.spec.ts:19 ~ it ~ response:', response)
 
     expect(response.statusCode).toEqual(201)
   })
