@@ -45,7 +45,6 @@ describe('Search Nearby Gym (e2e)', () => {
       })
       .set('Authorization', `Bearer ${token}`)
       .send()
-    console.log('🚀 ~ file: nearby.spec.ts:41 ~ it ~ response:', response)
 
     expect(response.statusCode).toEqual(200)
     expect(response.body.gyms).toHaveLength(1)
