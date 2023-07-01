@@ -17,12 +17,12 @@ Gympass style app.
 - [X] User should not be able to register with an already registered email.
 - [X] User should not be able to make 2 check-ins in the same day.
 - [X] User should not be able to make a check-in if he is not about (100m) from the gym.
-- [ ] The check-in just can be validate till 20 minutes after the check-in.
-- [ ] The check-in just can be validate by the gym admin.
-- [ ] The gym just can be registered by admins.
+- [X] The check-in just can be validate till 20 minutes after the check-in.
+- [X] The check-in just can be validate by the gym admin.
+- [X] The gym just can be registered by admins.
 
 ## NFR (Non-functional requirements)
 - [X] The users password should be encrypted.
 - [X] The data should be stored in a PostgreSQL database.
 - [X] Every data list should be paginated with 20 items per page.
-- [ ] The user should be identified by a JWT token.
+- [X] The user should be identified by a JWT token.
